@@ -7,7 +7,7 @@
 
 .box{
   width: 400px;
-  height: 100px;
+  height: 150px;
   position:  absolute;
   padding-top: 15px;
   top: 50%;
@@ -17,9 +17,13 @@
   color: aqua ;
   border: 2px solid rgb(205, 201, 201);
 }
+.box h3{
+  color: yellow;
+}
 p{
   text-transform: uppercase;
   color: blueviolet;
+  padding-top: 5px;
 }
 
  
