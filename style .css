@@ -18,9 +18,11 @@
   color: aqua ;
   border: 2px solid rgb(205, 201, 201);
 }
+
 .box h3{
   color: yellow;
 }
+
 p{
   text-transform: uppercase;
   color: blueviolet;
