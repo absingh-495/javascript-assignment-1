@@ -23,5 +23,10 @@
   color: yellow;
 }
 
- 
+p{
+  text-transform: uppercase;
+  color: blueviolet;
+  padding-top: 5px;
+}
+
  
